@@ -1,0 +1,2 @@
+# selestica
+Selenium automation module
